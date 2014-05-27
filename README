@@ -22,7 +22,7 @@ For the case where the piece is a Pawn, starting on one of the bottom two rows (
 
 Installation
 
-1) git clone git://github.com/lperichon/Phonepad-Chess.git
+1) git clone git@github.com:Boltmade/Phonepad-Chess.git
 2) cd Phonepad-Chess
 3) bundle install
 4) ruby main.rb
